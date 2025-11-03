@@ -1,0 +1,1 @@
+pip install transformers torch scikit-learn pandas numpy nltk flask
