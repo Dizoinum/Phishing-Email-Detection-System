@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 **A comprehensive machine learning system that trains and evaluates 9 different models to detect phishing URLs with detailed graphical performance analysis.**
