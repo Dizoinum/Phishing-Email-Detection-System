@@ -1,4 +1,4 @@
-# 🛡️ Phishing Detection System - Multi-Model ML Analysis
+#  Phishing Detection System - Multi-Model ML Analysis
 
 <div align="center">
 
