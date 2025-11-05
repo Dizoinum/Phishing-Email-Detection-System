@@ -131,7 +131,7 @@ Training Random Forest...
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/phishing-detection-system.git
+https://github.com/Dizoinum/Phishing-Email-Detection-System.git
 cd phishing-detection-system
 
 # Create virtual environment
@@ -327,7 +327,7 @@ Contributions are welcome! Here's how you can help:
 1. **Fork** the repository
 2. **Clone** your fork
    ```bash
-   git clone https://github.com/yourusername/phishing-detection-system.git
+   https://github.com/Dizoinum/Phishing-Email-Detection-System.git
    ```
 3. **Create** a feature branch
    ```bash
@@ -433,7 +433,7 @@ This project is licensed under the MIT License.
 
 ```bash
 # Complete setup in one go
-git clone https://github.com/yourusername/phishing-detection-system.git && \
+https://github.com/Dizoinum/Phishing-Email-Detection-System.git && \
 cd phishing-detection-system && \
 python3 -m venv phishing_env && \
 source phishing_env/bin/activate && \
